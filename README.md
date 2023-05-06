@@ -3,7 +3,7 @@
 <h3 align="center">Perl Scripts</h3>
 
   <p align="center">
-    A small library of helpful Perl scripts <a href="https://perldoc.perl.org/">by</a>
+    A small library of helpful <a href="https://perldoc.perl.org/">Perl</a> scri
     <br />
     <br />
     <br />
